@@ -1,0 +1,13 @@
+.body{
+    text-align: center;
+}
+#start{
+    background-color: rgb(209, 211, 61);
+    border-radius: 5px;
+    cursor: pointer;
+}
+#stop{
+    background-color: rgb(209, 211, 61);
+    border-radius: 5px;
+    cursor: pointer;
+}
